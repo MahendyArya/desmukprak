@@ -551,7 +551,7 @@ ul.navbar {
   }
   
   .container33 {
-    width: calc(50% - 10px); /* Menggunakan calc() untuk menghitung lebar yang tepat dengan jarak 10px antara kontainer */
+    width: calc(50% - 10px);
     max-width: calc(50% - 10px);
     height: 350px;
 
@@ -568,7 +568,7 @@ ul.navbar {
     font-family: 'Montserrat', sans-serif;
     padding-left: 40px;
     padding-right: 40px;
-    padding-top: 60px;
+    padding-top: 53px;
     color: #fff;
   }
 
